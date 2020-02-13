@@ -11,6 +11,6 @@
     "debug": "^4.1.1",
     "mqtt-extras": "^0.0.5",
     "uuid": "^3.4.0",
-    "async_iter": "file:./async_iter"
+    "async_iter": "file:./node_modules/mqtt-port-forward/async_iter"
   }
 }
