@@ -1,0 +1,8 @@
+{
+  "name": "async_iter",
+  "version": "1.2.2",
+  "author": "Dean Netherton",
+  "license": "MIT",
+  "description": "A set of async generators and iterator functions",
+  "main": "index.js"
+}

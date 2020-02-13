@@ -1,6 +1,0 @@
-{
-  "extends": ["eslint-config-stickler/test"],
-  "globals": {
-    "context": false
-  }
-}

@@ -1,11 +1,2 @@
-/examples
-/lib
-/index.js
 node_modules
-*.tgz
-/tmp
-/*.js
-/persisted
-!.babelrc.js
-pipeline/*
-todo.md
+.DS_Store
