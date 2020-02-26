@@ -1,6 +1,6 @@
 {
-  "name": "mqtt-port-forward",
-  "version": "0.0.7",
+  "name": "@akiroz/mqtt-port-forward",
+  "version": "0.0.9",
   "description": "Forward a socket over mqtt topics",
   "main": "index.js",
   "author": "Dean Netherton",
